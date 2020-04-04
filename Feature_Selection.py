@@ -105,5 +105,6 @@ while(Boolean):
 		Boo1ean=False
 	count=count+1
 f=open("FS_leukemia","w")
+
 for i in range(len(red)):
 	f.write(red[i])s
